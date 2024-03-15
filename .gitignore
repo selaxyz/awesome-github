@@ -1,0 +1,6 @@
+# Logs 
+log 
+*.log 
+
+#Mac finder
+.DS_Store
