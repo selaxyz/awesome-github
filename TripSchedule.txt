@@ -1,4 +1,6 @@
 Park Hyatt Seoul
 [Hotel Information]
+Info 1, Info 2, Info 3
 
 [Convenience Facilities]
+Facilities 1, Facilities 2, Facilities 3
